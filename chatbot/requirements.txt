@@ -1,3 +1,8 @@
 streamlit>=1.28.0
 requests>=2.31.0
-python-dotenv>=1.0.0 
+python-dotenv>=1.0.0
+langgraph
+langchain
+openai
+Pillow
+yfinance>=0.2.0
